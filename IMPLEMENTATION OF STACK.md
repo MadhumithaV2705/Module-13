@@ -44,3 +44,9 @@ for i in range(3):
 print('\nStack after elements are popped:')
 print(stack)
 ```
+
+### OUTPUT:
+<img width="814" height="253" alt="image" src="https://github.com/user-attachments/assets/6e2da6be-f7fd-4229-a003-1f8065b78f15" />
+
+### RESULT:
+Successfully implemented a stack using Python list. Items were added using append() and removed using pop(), demonstrating LIFO (Last In First Out) behavior of stack.
