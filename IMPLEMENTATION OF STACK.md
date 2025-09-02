@@ -27,5 +27,20 @@ To write a Python program to implement a stack using a list and its built-in met
 ### PROGRAM
 
 ```
+Reg.No: 212223060145
+Name: Madhumitha V
 
+stack = []
+for i in range(3):
+    a=input()
+    stack.append(a)
+
+print('Stack before elements are popped')
+print(stack)
+
+for i in range(3):
+    stack.pop()
+
+print('\nStack after elements are popped:')
+print(stack)
 ```
